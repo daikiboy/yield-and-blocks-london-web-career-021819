@@ -8,6 +8,9 @@ end
 end
 
 
-
+hello_t(names)
+i = 0 
+while i < names.length
+yield array
 # call your method here!
 
